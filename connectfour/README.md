@@ -1,5 +1,5 @@
 # ConnectFour
-Instructions to run the python script
+### Instructions to run the python script
 
 Run ```python ConnectFour.py arg1 arg``` where ```arg1``` and ```arg2``` are one of AI, random, or human.
 
